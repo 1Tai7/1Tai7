@@ -2,9 +2,6 @@
 ## Hola mundo! 
 </h2>
 
-<a href="https://www.linkedin.com/in/ilce-milena-garcia-varela-6a7562207/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 <br />
 
@@ -12,7 +9,9 @@
 - 👀 I’m interested in create code in JavaScript
 - 🌱 I’m currently learning at Laboratoria improving my skills
  
- [Linkedin](https://www.linkedin.com/in/ilce-milena-garcia-varela-6a7562207/)
+<a href="https://www.linkedin.com/in/ilce-milena-garcia-varela-6a7562207/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> [Linkedin](https://www.linkedin.com/in/ilce-milena-garcia-varela-6a7562207/) 
  
  
 
