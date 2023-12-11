@@ -10,7 +10,7 @@
 
 ### 👋 Hi, I’m Ilce Milena
 - 👀 I’m interested in create code in JavaScript
-- 🌱 I’m currently learning at Platzi improving my skills
+- 🌱 I’m currently learning at Laboratoria improving my skills
  
  [Linkedin](https://www.linkedin.com/in/ilce-milena-garcia-varela-6a7562207/)
  
